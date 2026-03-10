@@ -22,7 +22,7 @@ The application returns clear and user-friendly error messages when invalid stud
 GET /student/{id}
 
 Example:
-http://localhost:8080/student/1
+http://localhost:8088/student/1
 =>Exception Handling
 =>StudentNotFoundException
 
